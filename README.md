@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PoM4UyuQIeezclukwkNF7ymG8tWS84Ab/view?usp=sharing](https://drive.google.com/file/d/1PoM4UyuQIeezclukwkNF7ymG8tWS84Ab/view?usp=sharing)
 
-- ⚡ Fun fact **sometimes i am way dumb than expected**
+- ⚡ Fun fact **sometimes i am searching for error in line 777**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
