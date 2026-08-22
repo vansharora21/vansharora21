@@ -40,6 +40,4 @@ C • C++ • Java • Python • HTML • CSS • JavaScript • React • Next
 
 ---
 
-**Code. Learn. Build. Repeat.** ✨
-
-*P.S. Sometimes the bug is just a missing semicolon after 3 hours of debugging 😭*
+**Code. Learn. Build. Repeat.** 
