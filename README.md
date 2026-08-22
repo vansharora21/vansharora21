@@ -1,79 +1,47 @@
-<h1 align="center">Hi 👋, I'm Vansh Arora</h1>
-<h3 align="center">Passionate Web Developer • Tech Enthusiast • Always Learning</h3>
+# Hi 👋 I'm Vansh Arora
+
+Passionate web developer. Tech enthusiast. Always learning.
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 Currently learning **Full Stack Web Development & React**
-- 💻 Building projects focused on **modern UI/UX and real-world problem solving**
-- 🚀 Exploring **Next.js, React Native, APIs, and Backend Development**
-- 👨‍💻 Check out my projects here:  
-  🔗 [GitHub Portfolio](https://github.com/vansharora21)
+## About Me
 
-- 💬 Ask me about:  
-  **HTML • CSS • JavaScript • React • Java • C/C++**
+- Currently diving into **Full Stack Web Development & React**
+- Building projects with a focus on **modern UI/UX and solving real problems**
+- Exploring **Next.js, React Native, APIs, and Backend Development**
+- Check out what I'm working on → [GitHub](https://github.com/vansharora21)
 
-- 📫 Reach me at:  
-  **vansharora4903@gmail.com**
+## Skills & Languages
 
-- 📄 View my Resume:  
-  🔗 [Resume Link](https://drive.google.com/file/d/1PoM4UyuQIeezclukwkNF7ymG8tWS84Ab/view?usp=sharing)
+HTML • CSS • JavaScript • React • Java • C/C++ • Python
 
-- ⚡ Fun Fact:  
-  *Sometimes the bug is just a missing semicolon after 3 hours of debugging 😭*
+## Tech Stack
 
----
+C • C++ • Java • Python • HTML • CSS • JavaScript • React • Next.js • Node.js • Figma • Git • GitHub • VS Code
 
-<h3 align="left">🌐 Connect With Me</h3>
+## Get In Touch
 
-<p align="left">
-<a href="https://www.linkedin.com/in/aroravansh2108/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="45" width="45" />
-</a>
+**Email:** vansharora4903@gmail.com  
+**Resume:** [Drive Link](https://drive.google.com/file/d/1PoM4UyuQIeezclukwkNF7ymG8tWS84Ab/view?usp=sharing)
 
-<a href="https://instagram.com/vansh_arora_0821" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="45" width="45" />
-</a>
-</p>
+### Connect
+- [LinkedIn](https://www.linkedin.com/in/aroravansh2108/)
+- [Instagram](https://instagram.com/vansh_arora_0821)
 
----
+## GitHub Stats
 
-<h3 align="left">🛠️ Languages & Tools</h3>
+<div align="center">
 
-<p align="left">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vansharora21&show_icons=true&theme=tokyonight)
 
-<img src="https://skillicons.dev/icons?i=c" height="50"/>
-<img src="https://skillicons.dev/icons?i=cpp" height="50"/>
-<img src="https://skillicons.dev/icons?i=java" height="50"/>
-<img src="https://skillicons.dev/icons?i=python" height="50"/>
-<img src="https://skillicons.dev/icons?i=html" height="50"/>
-<img src="https://skillicons.dev/icons?i=css" height="50"/>
-<img src="https://skillicons.dev/icons?i=javascript" height="50"/>
-<img src="https://skillicons.dev/icons?i=react" height="50"/>
-<img src="https://skillicons.dev/icons?i=nextjs" height="50"/>
-<img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
-<img src="https://skillicons.dev/icons?i=figma" height="50"/>
-<img src="https://skillicons.dev/icons?i=git" height="50"/>
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vansharora21&theme=tokyonight)
 
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vansharora21&layout=compact&theme=tokyonight)
+
+</div>
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
+**Code. Learn. Build. Repeat.** ✨
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vansharora21&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vansharora21&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansharora21&layout=compact&theme=tokyonight" alt="langs" />
-</p>
-
----
-
-<h3 align="center">✨ “Code. Learn. Build. Repeat.” ✨</h3>
+*P.S. Sometimes the bug is just a missing semicolon after 3 hours of debugging 😭*
