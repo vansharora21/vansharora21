@@ -1,15 +1,13 @@
 # Hi 👋 I'm Vansh Arora
 
-Full-stack developer & AI tooling builder. CS student at BIT Mesra.
+Full-stack developer & Agentic AI builder. CS student at BIT Mesra.
 
 ## About Me
 
-- Building **TokenCap**, an open-source CLI (800+ weekly npm downloads) that turns codebases into AI-ready context for GPT, Claude, Gemini, and Llama
+- Building **TokenCap**, an open-source CLI (800+ weekly npm downloads) that turns codebases into AI-ready context for GPT, Claude, Gemini, and Llama → [Tokencap](https://tokencap.vansharora.app/)
 - Building **Waymark**, a researcher networking platform → [waymark.live](https://www.waymark.live/)
 - AI Intern @ Fox India Voyages — built n8n automation workflows (Twilio, Groq, Google Sheets, ClickUp)
-- Previously built and deployed Learnitfy, a corporate training platform used by 500+ users
-- Web Dev Lead @ GDG BIT Mesra · Technical Lead @ Parallax (BIT Mesra's tech fest)
-- Check out what I'm working on → [GitHub](https://github.com/vansharora21)
+- Previously built and deployed Learnitfy [Learnitfy](https://www.learnitfy.com/), a corporate training platform used by 500+ users
 
 ## Skills & Languages
 
@@ -22,11 +20,10 @@ React • Next.js • Node.js • Express.js • MongoDB • Supabase • Prisma
 ## Get In Touch
 
 **Email:** vansharora4903@gmail.com
-**Resume:** [Drive Link](https://drive.google.com/file/d/1PoM4UyuQIeezclukwkNF7ymG8tWS84Ab/view?usp=sharing)
 
 ### Connect
 
-- [LinkedIn](https://www.linkedin.com/in/aroravansh2108/)
+- [LinkedIn](https://www.linkedin.com/in/vansharora2108/)
 - [Instagram](https://instagram.com/vansh_arora_0821)
 
 ## GitHub Stats
